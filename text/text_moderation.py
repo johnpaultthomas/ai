@@ -4,7 +4,7 @@ import json
 headers = {
     # Request headers
     'Content-Type': 'text/plain',
-    'Ocp-Apim-Subscription-Key': '7152881e888145ee8b00e33e3f1f421d',
+    'Ocp-Apim-Subscription-Key': 'Put your key here',
 }
 
 print ("Hello there..")
